@@ -1,0 +1,51 @@
+_repo: Cap-n-Warren-s-Wards_3280
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 3280/3280-h/images/icover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Lincoln, Joseph Crosby
+    alias: Lincoln, Joseph C.
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '810'
+    url: http://www.gutenberg.org/2009/agents/810
+description: Cap'n Warren's Wards is the first book by Joseph C. Lincoln that moves
+  off the fictional towns of Cape Cod (in this case South Denboro) and into the big
+  city hustle of Manhattan. Elijah Warren finds himself the guardian of his brother's
+  children who are rapidly reaching adulthood but haven't had to face the harsh realities
+  of self responsibility due to their father's wealth. Unfortunately now there are
+  a few snags with A. Rodgers Warren's estate and Cap'n Warren decides its best to
+  toughen his wards up and maybe teach them some humility in the process. Returning
+  to his native Cape Cod village after many years of living at sea, Cy Whittaker finds
+  the old homestead no longer the place of his boyhood. So-called "improvements" have
+  been going on in his absence, and he finds it  all sadly changed. The old man adopts
+  the little daughter of a worthless drunkard, with the intent of giving the child
+  an education. A Congressman from the district, years before, had appropriated property
+  belonging to the child, and he, together with the father, fights to regain possession
+  of the child. The sympathy of the village goes out to the father, but Cy Whittaker
+  and Phoebe Dawes, the school teacher, manage to outwit the Congressman and the drunken
+  father, and in the end the old bachelor and the school mistress fall in love with
+  each other.
+gutenberg_issued: '2006-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Child rearing -- Fiction'
+- !lcsh 'Responsibility -- Fiction'
+- !lcsh 'Wealth -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Massachusetts -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- GITenberg
+title: Cap'n Warren's Wards
+url: http://www.gutenberg.org/ebooks/3280
